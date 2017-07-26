@@ -1,3 +1,24 @@
+body{
+ font-family: Arial,sans-serif;
+ font-size: small;
+}
+
+
+input[type=button]{
+	 font-family: Arial,sans-serif;
+	font-size: small;
+	background-color: #aaaaff;
+	border-radius:4px;
+	border-style:none;
+	padding:5px;
+	color:#ffffff;
+}
+
+input[type=button]:hover{
+	background-color: #6666cc;
+	
+}
+
 #canvas{
 	width:500px;
 	height:500px;
